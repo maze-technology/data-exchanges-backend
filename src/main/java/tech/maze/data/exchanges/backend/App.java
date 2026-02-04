@@ -1,4 +1,4 @@
-package tech.maze.helloworld.backend;
+package tech.maze.data.exchanges.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
