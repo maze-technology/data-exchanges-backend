@@ -8,6 +8,11 @@ import java.util.Objects;
  * @param id unique exchange identifier
  */
 public record Exchange(String id) {
+  /**
+   * Creates an exchange record.
+   *
+   * @param id exchange identifier
+   */
   public Exchange {
     Objects.requireNonNull(id, "id must not be null");
   }
