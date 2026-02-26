@@ -16,7 +16,7 @@ ext {
   lombokVersion               = "1.18.42"
   wiremockVersion             = "3.13.2"
   mapStructVersion            = "1.6.3"
-  snakeyamlVersion            = "2.5"
+  snakeyamlVersion            = "2.6"
   postgresqlVersion           = "42.7.10"
   springBootVersion           = "4.0.3"
   mazeCommonsVersion          = "0.0.19"
